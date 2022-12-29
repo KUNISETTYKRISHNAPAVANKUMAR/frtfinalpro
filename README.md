@@ -1,25 +1,19 @@
 # 🩺 Medick 🩺
 >>Project is developed by KUNISETTY KRISHNA PAVAN KUMAR for FRT.
 
-### Project Title : 
-Medick
+Project Title : Medick
 
 ***This is a web application related to health developed for medical hospital
 
-### IDE : 
-VS-Code
+IDE : VS-Code
 
-### Industry : 
-Health
+Industry : Health
 
-### Problem Statement/Opportunity : 
-To give publicity about hospital,their programmes,high experienced programmes,and also to provide better services to the patients in efficient manner.
+Problem Statement/Opportunity : To give publicity about hospital,their programmes,high experienced programmes,and also to provide better services to the patients in efficient manner.
 
-### Project Description : 
-we made an information available in the website about hospital infrastructure,well qualified team,free appointment to patients,services that we provide such as(Therapiya,Dentistry,Virusology,Pharmocology,Cardiology,Eye Surgery),various departments that are in our hospital.
+Project Description : we made an information available in the website about hospital infrastructure,well qualified team,free appointment to patients,services that we provide such as(Therapiya,Dentistry,Virusology,Pharmocology,Cardiology,Eye Surgery),various departments that are in our hospital.
 
-### Web Technologies used : 
-JS,HTML,CSS.
+Web Technologies used : JS,HTML,CSS.
 
 ## Features and Functionalities of Website :
 
@@ -28,20 +22,17 @@ JS,HTML,CSS.
 - User can know information about hospital through this website.
 - User can take services provided by website such as taking appointment etc.
 
-### Primary Azure Technology : 
-Static Web Apps,Azure Health Bot.
+### Primary Azure Technology : Static Web Apps,Azure Health Bot.
 
-### Static Web Apps Link : 
-https://ashy-smoke-0596c8d00.2.azurestaticapps.net
+### Static Web Apps Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net
 
-### Azure Health Bot Link : 
-https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
+### Azure Health Bot Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
 
 ## PROJECT LINK- https://ashy-smoke-0596c8d00.2.azurestaticapps.net/
 
 ## PROJECT VIDEO LINK - https://drive.google.com/drive/u/0/folders/1P0Y70tjUUN3_GB6qV9bJs3pXE-1xNDHa
 
-## Screenshots :
+## SCREENSHOTS :
 
 ### **Home
 ![image](https://user-images.githubusercontent.com/118153235/209954793-33158d59-5da7-434a-8a10-84b69ef748fe.png)
@@ -67,7 +58,7 @@ https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
 ![image](https://user-images.githubusercontent.com/118153235/209957510-dc06c3d0-415d-45d1-b3bc-df0e699d77e7.png)
 ![image](https://user-images.githubusercontent.com/118153235/209957870-f52572f9-f57c-4455-aa78-55e4ca4baedd.png)
 
-### **Departments -
+### **Departments
 
 ![image](https://user-images.githubusercontent.com/118153235/209958143-d1fc7259-56da-4d00-a215-89b4a89b11fe.png)
 ![image](https://user-images.githubusercontent.com/118153235/209958379-89779564-4b8f-47b7-9f46-d091713417af.png)
@@ -75,7 +66,7 @@ https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
 ![image](https://user-images.githubusercontent.com/118153235/209958936-d4707277-9454-4d24-9746-f6b03a4ae8ff.png)
 
 
-### **Contact -
+### **Contact
 
 ![image](https://user-images.githubusercontent.com/118153235/209959413-571f965d-5364-48d2-9668-54ea51834f95.png)
 ![image](https://user-images.githubusercontent.com/118153235/209959884-f8f5413a-4e1a-4a6e-8eb3-0e0fa770101e.png)
@@ -84,4 +75,4 @@ https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
 
 ### **Healthbot
 
-![image](https://user-images.githubusercontent.com/118153235/209960976-12922f9a-adef-4490-bfc1-1d4744c43ebb.png)
+![image](https://user-images.githubusercontent.com/118153235/209962349-7dad7123-83f3-452a-91b1-b076a12bca1b.png)
