@@ -1,26 +1,26 @@
 # ✨ Medick ✨
+>>Project is developed by KUNISETTY KRISHNA PAVAN KUMAR for FRT.
 
-This is a web application related to health developed for medical hospital
-
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
-**Project Link** - https://ashy-smoke-0596c8d00.2.azurestaticapps.net/
-**project demo video link** - 
-
-## Azure technologies used for Project
-
-- Static web apps
-- Health bot
-
-## Features and Functionalities 😃
+Project Title : Medick
+***This is a web application related to health developed for medical hospital
+IDE : VS-Code
+Industry : Health
+Problem Statement/Opportunity*: To give publicity about hospital,their programmes,high experienced programmes,and also to provide better services to the patients in                                 efficient manner.
+Project Description : we made an information available in the website about hospital infrastructure,well qualified team,free appointment to patients,services that                         we provide such as(Therapiya,Dentistry,Virusology,Pharmocology,Cardiology,Eye Surgery),various departments that are in our hospital.
+Web Technologies used : JS,HTML,CSS.
+## Features and Functionalities of Website :
 
 - Has many graphical and visual innovative effects.
 - It has many web pages including Home, About, Contact, Departments.
 - User can know information about hospital through this website.
 - User can take services provided by website such as taking appointment etc.
 
-## Screenshots
+Primary Azure Technology : Static Web Apps,Azure Health Bot.
+Static Web Apps Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net
+Azure Health Bot Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
+PROJECT LINK- https://ashy-smoke-0596c8d00.2.azurestaticapps.net/
+PROJECT VIDEO LINK - https://drive.google.com/drive/u/0/folders/1P0Y70tjUUN3_GB6qV9bJs3pXE-1xNDHa
+## Screenshots :
 
 ### Home -
 
@@ -46,10 +46,3 @@ This is a web application related to health developed for medical hospital
 
 ![image](https://user-images.githubusercontent.com/118153235/209918607-05f2a9c1-2893-4d2f-b8c6-a8fc3bdf21b8.png)
 
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- JavaScript
