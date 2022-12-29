@@ -15,13 +15,6 @@ Project Description : we made an information available in the website about hosp
 
 Web Technologies used : JS,HTML,CSS.
 
-## Features and Functionalities of Website :
-
-- Has many graphical and visual innovative effects.
-- It has many web pages including Home, About, Contact, Departments.
-- User can know information about hospital through this website.
-- User can take services provided by website such as taking appointment etc.
-
 Primary Azure Technology : Static Web Apps,Azure Health Bot.
 
 Static Web Apps Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net
