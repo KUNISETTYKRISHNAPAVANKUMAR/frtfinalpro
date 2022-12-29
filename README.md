@@ -1,19 +1,19 @@
 # 🩺 Medick 🩺
 >>Project is developed by KUNISETTY KRISHNA PAVAN KUMAR for FRT.
 
-#Project Title : Medick
+Project Title : Medick
 
 ***This is a web application related to health developed for medical hospital
 
-#IDE : VS-Code
+IDE : VS-Code
 
-#Industry : Health
+Industry : Health
 
-#Problem Statement/Opportunity*: To give publicity about hospital,their programmes,high experienced programmes,and also to provide better services to the patients                                    in efficient manner.
+Problem Statement/Opportunity*: To give publicity about hospital,their programmes,high experienced programmes,and also to provide better services to the patients                                    in efficient manner.
 
-#Project Description : we made an information available in the website about hospital infrastructure,well qualified team,free appointment to patients,services that                         we provide such as(Therapiya,Dentistry,Virusology,Pharmocology,Cardiology,Eye Surgery),various departments that are in our hospital.
+Project Description : we made an information available in the website about hospital infrastructure,well qualified team,free appointment to patients,services that                         we provide such as(Therapiya,Dentistry,Virusology,Pharmocology,Cardiology,Eye Surgery),various departments that are in our hospital.
 
-#Web Technologies used : JS,HTML,CSS.
+Web Technologies used : JS,HTML,CSS.
 
 ## Features and Functionalities of Website :
 
