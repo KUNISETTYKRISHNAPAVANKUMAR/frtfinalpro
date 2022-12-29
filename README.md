@@ -22,11 +22,11 @@ Web Technologies used : JS,HTML,CSS.
 - User can know information about hospital through this website.
 - User can take services provided by website such as taking appointment etc.
 
-### Primary Azure Technology : Static Web Apps,Azure Health Bot.
+Primary Azure Technology : Static Web Apps,Azure Health Bot.
 
-### Static Web Apps Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net
+Static Web Apps Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net
 
-### Azure Health Bot Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
+Azure Health Bot Link : https://ashy-smoke-0596c8d00.2.azurestaticapps.net/healthbot.html
 
 ## PROJECT LINK- https://ashy-smoke-0596c8d00.2.azurestaticapps.net/
 
