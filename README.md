@@ -32,7 +32,9 @@ This is a web application related to health developed for medical hospital
 ### Departments -
 
 ![image](https://user-images.githubusercontent.com/118153235/209918498-d7d7b202-82bd-41a7-99a8-f4b622ba6d79.png)
+
 ![image](https://user-images.githubusercontent.com/118153235/209918662-dfcb0c0b-3f76-472d-b466-c5fc32987ea7.png)
+
 ![image](https://user-images.githubusercontent.com/118153235/209918683-f925e5bd-a9ef-41d4-9a4e-e2e7ff0b67a8.png)
 
 
