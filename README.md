@@ -24,23 +24,25 @@ This is a web application related to health developed for medical hospital
 
 ### Home -
 
-![image](https://user-images.githubusercontent.com/118153235/203090500-a6a15a0c-8ad7-4365-9b74-9664f91a6a69.png)
-
+![image](https://user-images.githubusercontent.com/118153235/209918370-9a0ff43f-c085-4972-b2f6-8278236815a3.png)
 ### About -
 
-![image](https://user-images.githubusercontent.com/118153235/203091070-a05a693d-4c72-4846-8bc5-2f5cf3af52d1.png)
+![image](https://user-images.githubusercontent.com/118153235/209918448-e6ecea0c-b935-478d-a9c0-028de3b1811a.png)
 
 ### Departments -
 
-![image](https://user-images.githubusercontent.com/118153235/203093600-196b65f5-a9b8-4a2f-aa0f-c834a814e9fe.png)
+![image](https://user-images.githubusercontent.com/118153235/209918498-d7d7b202-82bd-41a7-99a8-f4b622ba6d79.png)
+![image](https://user-images.githubusercontent.com/118153235/209918662-dfcb0c0b-3f76-472d-b466-c5fc32987ea7.png)
+![image](https://user-images.githubusercontent.com/118153235/209918683-f925e5bd-a9ef-41d4-9a4e-e2e7ff0b67a8.png)
+
 
 ### Contact -
 
-![image](https://user-images.githubusercontent.com/118153235/203094147-50206e51-8a5c-4466-87b5-04b65aee7324.png)
+![image](https://user-images.githubusercontent.com/118153235/209918536-a4b6c51e-8e81-4762-bede-a440b70090a9.png)
 
 ### Healthbot
 
-![image](https://user-images.githubusercontent.com/118153235/203094485-76ed7f06-29bb-476a-b462-239f00231f1a.png)
+![image](https://user-images.githubusercontent.com/118153235/209918607-05f2a9c1-2893-4d2f-b8c6-a8fc3bdf21b8.png)
 
 
 ## Tech Stack 💻
