@@ -48,5 +48,4 @@ This is a web application related to health developed for medical hospital
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
